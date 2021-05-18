@@ -1,9 +1,9 @@
 <p align="center" >
   <a href="http://42seoul.kr/">
-    <img src="./docs/image/logo42.svg" width="320" alt="42Seoul logo" />
+    <img src="./docs/image/42seoul.community.svg" width="320" alt="42Seoul logo" />
   </a>
 </p>
-<h1 align="center" >42seoul Community Project</h1>
+<h1 align="center" >42seoul.community Project</h1>
 <h2 align="center" >🚀 Backend</h2>
 
 ### ⚙️ Tech Stack - 🚀 Backend
