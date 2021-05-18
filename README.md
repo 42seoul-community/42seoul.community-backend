@@ -7,11 +7,11 @@
 ### ⚙️ Tech Stack - 🚀 Backend
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="32" alt="typescript"/>
-  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="32" alt="nestjs"/>
-  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" height="32" alt="typeorm"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="32" alt="postgresql"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="32" alt="docker"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" height="32" style="margin-right: 2px;" alt="typescript"/>
+  <img src="https://docs.nestjs.com/assets/logo-small.svg" height="32" style="margin-right: 2px;" alt="nestjs"/>
+  <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_big.png" height="32" style="margin-right: 2px;" alt="typeorm"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" height="32" style="margin-right: 2px;" alt="postgresql"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" height="32" style="margin-right: 2px;" alt="docker"/>
 </div>
 
 ### ✅ TODO
@@ -20,4 +20,3 @@
 - [ ] 사용 기술 정의 하기
 - [ ] 시퀸스 작성하기.
 - [ ] API 명세 작성하기
-
