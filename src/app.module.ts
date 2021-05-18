@@ -5,7 +5,6 @@ import { join } from 'path';
 import configuration, { NODE_ENV } from '../config/configuration';
 import { AppController } from './app.controller';
 import { AppService } from './app.service';
-import { UserController } from './user/user.controller';
 import { UserModule } from './user/user.module';
 
 @Module({
@@ -21,7 +20,7 @@ import { UserModule } from './user/user.module';
     }),
     UserModule,
   ],
-  controllers: [AppController, UserController],
+  controllers: [AppController],
   providers: [AppService],
 })
 export class AppModule {}

@@ -1,4 +1,5 @@
 import { Test, TestingModule } from '@nestjs/testing';
+import { UserModel } from './user.model';
 import { UserService } from './user.service';
 
 describe('UserService', () => {
@@ -12,7 +13,7 @@ describe('UserService', () => {
     service = module.get<UserService>(UserService);
   });
 
-  it('should be defined', () => {
-    expect(service).toBeDefined();
+  it('should return UserModel Object', () => {
+    expect(service.getUser()).toBeInstanceOf(UserModel);
   });
 });
