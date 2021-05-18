@@ -70,3 +70,12 @@ OAuth 2.0 방식을 채택해서 내외부에서 유저에 대해서 인증 할 
 #### Community 관리 API 제공
 
 [Community 참여 승낙 기능](#community-참여-승낙-기능), [Community 참여 유저 제어 기능](#community-참여-유저-제어-기능) 등의 기능 들을 API로 제공하여서 외부에서 쉽게 커뮤니티 관리를 할 수 있도록 기능 제공.
+
+
+<!-- TODO: 상세 명세 추가 작성 필요! -->
+### 제공 기능 구현을 위한 상세 명세
+
+- [ ] User Model 설계
+- [ ] Login 기능 구현
+- [ ] Gtihub login 및 연동 구현
+- [ ] 42 Intra Login 및 연동 구현
